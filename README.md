@@ -19,7 +19,7 @@ I'm currently pursuing my Bachelor's in Computer Science and Information Technol
 - **Cloud Services**: AWS, Azure
 - **Database**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
-- 
+  
 🌱 Currently Learning:
 - Advanced topics in **Blockchain** and **Network Security**
 - Building more robust applications using **DevOps** practices
